@@ -1,0 +1,26 @@
+SMAP
+AllMachines_jsp.java
+JSP
+*S JSP
+*F
++ 0 AllMachines.jsp
+Machine/AllMachines.jsp
++ 1 navbar.jsp
+navbar/navbar.jsp
+*L
+2,14:62
+2#1,30:75
+15#0,26:105
+40:162,11
+41,5:173
+45:233,5
+45,3:180
+47:251,5
+47,2:185
+48:269,5
+48,3:189
+51:192,9
+52:201,3
+53,5:204
+57,12:133
+*E
